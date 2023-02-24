@@ -15,6 +15,7 @@
 <style>
     .margin{
         margin-left: 290px;
+        margin-right: 290px;
     }
 </style>
 
